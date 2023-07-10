@@ -1,0 +1,13 @@
+package com.latelier.playersstatistics.repositories;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.stereotype.Repository;
+
+import com.latelier.playersstatistics.entities.Country;
+import com.latelier.playersstatistics.entities.Player;
+
+@Repository
+public interface PlayerRepository extends JpaRepository<Player, Long>{
+	
+}
