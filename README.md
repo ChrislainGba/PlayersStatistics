@@ -1,4 +1,4 @@
-# API Documentation
+# Players API Documentation
 
 This is a RESTful API for managing players.
 
