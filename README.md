@@ -1,4 +1,4 @@
-# Statistics API
+# Statistic API
 
 This API provides statistics related to players.
 
